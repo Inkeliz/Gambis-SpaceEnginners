@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngameScript1", "IngameScript1\IngameScript1.csproj", "{68D9D69F-C88A-4DFA-9B94-5C7B6C2A6182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngameScript2", "IngameScript2\IngameScript2.csproj", "{88B1574C-A86E-455D-A683-44B09382CF7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D9D69F-C88A-4DFA-9B94-5C7B6C2A6182}.Debug|x64.ActiveCfg = Debug|x64
+		{68D9D69F-C88A-4DFA-9B94-5C7B6C2A6182}.Debug|x64.Build.0 = Debug|x64
+		{88B1574C-A86E-455D-A683-44B09382CF7A}.Debug|x64.ActiveCfg = Debug|x64
+		{88B1574C-A86E-455D-A683-44B09382CF7A}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F22839-2173-45CA-B522-3BAB235175E5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+
+*.dll
+*.exe
+.vs/*
+*/bin/*
+*/MDK/*
+*/obj/*

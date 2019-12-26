@@ -1,0 +1,4 @@
+﻿R e a d m e
+-----------
+
+Subir/Descer pistao com uma velocidade especifica. Para tal, insira como argumento da seguinte forma: "{NomeDoGrupoDosPistoes}" "{velocidade desejada}", como: "Grupo De Pistoes" "-1".
