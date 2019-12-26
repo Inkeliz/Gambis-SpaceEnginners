@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngameScript1", "IngameScri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngameScript2", "IngameScript2\IngameScript2.csproj", "{88B1574C-A86E-455D-A683-44B09382CF7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngameScript3", "IngameScript3\IngameScript3.csproj", "{058694C2-4570-4479-97DB-98359A1BB0F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -16,6 +18,8 @@ Global
 		{68D9D69F-C88A-4DFA-9B94-5C7B6C2A6182}.Debug|x64.Build.0 = Debug|x64
 		{88B1574C-A86E-455D-A683-44B09382CF7A}.Debug|x64.ActiveCfg = Debug|x64
 		{88B1574C-A86E-455D-A683-44B09382CF7A}.Debug|x64.Build.0 = Debug|x64
+		{058694C2-4570-4479-97DB-98359A1BB0F0}.Debug|x64.ActiveCfg = Debug|x64
+		{058694C2-4570-4479-97DB-98359A1BB0F0}.Debug|x64.Build.0 = Debug|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
